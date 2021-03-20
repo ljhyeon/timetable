@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>이지현 시간표</title>
+    <title>시간표</title>
     <style>
         table{
             border: 2px solid #d2d2d2;
